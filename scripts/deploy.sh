@@ -26,3 +26,4 @@ function apply_k8s_manifests() {
 apply_k8s_manifests
 
 # Hash 6953
+# Hash 6522
